@@ -129,8 +129,8 @@ The API will be accessible at http://localhost:8000.
    * URL: /videos
    * Method: GET
    * Parameters:
-    limit (optional): The maximum number of videos to retrieve. Default is 10.
-    offset (optional): The number of videos to skip. Default is 0.
+    - limit (optional): The maximum number of videos to retrieve. Default is 10.
+    - offset (optional): The number of videos to skip. Default is 0.
    * Response:
      ```json
       {
